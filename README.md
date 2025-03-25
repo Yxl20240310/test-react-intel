@@ -1,4 +1,4 @@
-# 说明
+# 简介
 
 [React](https://reactjs.org/) 是用于构建用户界面的流行 JavaScript 库。
 
