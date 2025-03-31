@@ -1,8 +1,10 @@
+<<<<<<< HEAD
 # 简介
 <<<<<<< HEAD
-
 =======
->>>>>>> 79906d6c07fe90f898a837b97706ce48879db4df
+# 简介
+>>>>>>> 225f61eaaa7f14154b5cad814c86f42558f3fb59
+
 [React](https://reactjs.org/) 是用于构建用户界面的流行 JavaScript 库。
 
 [Rsbuild](https://rsbuild.dev/) 是由 Rspack 驱动的高性能构建工具，它默认包含了一套精心设计的构建配置，提供开箱即用的开发体验。
