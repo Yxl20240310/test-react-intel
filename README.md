@@ -1,8 +1,8 @@
 <<<<<<< HEAD
-# 简介
+# 说明
 <<<<<<< HEAD
 =======
-# 简介
+# 说明
 >>>>>>> 225f61eaaa7f14154b5cad814c86f42558f3fb59
 
 [React](https://reactjs.org/) 是用于构建用户界面的流行 JavaScript 库。
